@@ -7,6 +7,7 @@ toc_label: "페이지 주요 목차"
 ---
 ### 01. 사주보기
 ![C language1](/assets/images/C language1.PNG)
+<C-->
 ~~~c
 #include <stdio.h>
 int main(void)
