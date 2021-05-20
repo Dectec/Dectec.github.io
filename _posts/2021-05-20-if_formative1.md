@@ -5,7 +5,7 @@ toc_sticky: true
 toc_label: "페이지 주요 목차"
 ---
 ### 01. 사주보기
-![saju](/assets/images/C 언어1.png)
+![C 언어1](/assets/images/C 언어1.png)
 ~~~c
 #include <stdio.h>
 int main(void)
