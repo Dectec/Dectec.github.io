@@ -1,4 +1,4 @@
-{% capture video_id %}{{ include.id }}{% endcapture %}
+{% capture video_https://www.youtube.com/watch?v=oL46eVuKNss %}{{ include.https://www.youtube.com/watch?v=oL46eVuKNss }}{% endcapture %}
 {% capture video_provider %}{{ include.provider }}{% endcapture %}
 {% capture video_danmaku %}{{ include.danmaku | default: 0 }}{% endcapture %}
 
