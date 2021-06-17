@@ -27,7 +27,6 @@ printf("당신의 사주는 그럭저럭입니다.\n");
 return 0;
 }
 ~~~
-![76p03](/assets/images/76p03.PNG)
 
 ### 02. 사주보기
 ![96p](/assets/images/96p.PNG)
